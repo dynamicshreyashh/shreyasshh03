@@ -9,8 +9,7 @@ Welcome to my GitHub profile! I’m a Full Stack Web Developer with a keen inter
 
 ## 🌱 I’m Currently Learning
 
-- **React.js**:
-- **Next.js**: 
+- **React.js**
 - **Spring Boot**
 
 ## 💞️ I’m Looking to Collaborate On
