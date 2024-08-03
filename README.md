@@ -17,11 +17,13 @@ Welcome to my GitHub profile! I’m a Full Stack Web Developer with a keen inter
 - Open-source projects
 - Web development challenges
 - Exciting new applications and technologies
-
+- 
 ## 📫 How to Reach Me
 
-- **Email**: [shreyash.bhosale@example.com](mailto:shreyashbhosale078@gmail.com)
+**Email**: [shreyash.bhosale@example.com](mailto:shreyashbhosale078@gmail.com)
 - **LinkedIn**: [linkedin.com/in/shreyashbhosale](https://linkedin.com/in/shreyash-bhosale-5a7726245/)
+- **Twitter**: [@shreyash_bhosale](https://x.com/ftshreyaash09)
+- **Discord**: [fiercee0749_64933](https://discord.com/users/fiercee0749_64933)
 
 ## 😄 Pronouns
 
