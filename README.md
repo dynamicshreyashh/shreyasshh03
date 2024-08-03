@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I’m a Full Stack Web Developer with a keen inter
 
 - **Email**: [shreyash.bhosale@example.com](mailto:shreyashbhosale078@gmail.com)
 - **LinkedIn**: [linkedin.com/in/shreyashbhosale](https://linkedin.com/in/shreyash-bhosale-5a7726245/)
-- **Portfolio**: [shreyashbhosale.dev](https://shreyashbhosale.dev)
 
 ## 😄 Pronouns
 
