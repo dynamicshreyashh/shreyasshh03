@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I’m a Full Stack Web Developer with a keen inter
 
 ## 🌱 I’m Currently Learning
 
-- **React.js**
-- **Spring Boot**
 
 ## 💞️ I’m Looking to Collaborate On
 
@@ -22,7 +20,6 @@ Welcome to my GitHub profile! I’m a Full Stack Web Developer with a keen inter
 
 **Email**: [shreyash.bhosale@example.com](mailto:shreyashbhosale078@gmail.com)
 - **LinkedIn**: [linkedin.com/in/shreyashbhosale](https://linkedin.com/in/shreyash-bhosale-5a7726245/)
-- **Twitter**: [@shreyash_bhosale](https://x.com/ftshreyaash09)
 - **Discord**: [fiercee0749_64933](https://discord.com/users/fiercee0749_64933)
 
 ## 😄 Pronouns
